@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>the perfect trip to the beach </h1>
+        
+        <p>I would like to see a nice beach,</p>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png">
+        
+        <p>And animals like birds and tropical creatures, i think that would be interesting tosee cause you dont see that to often here </p>
+        
+        <p>And eat food that is different from here comparing to other places around the world</p>
+        
+    </body>
+</html>
